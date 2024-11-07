@@ -1,0 +1,12 @@
+**Log on to codeastro.com for more projects!***
+
+**Database Name: orrsphp**
+
+**Developed by Martin Mbithi Nzilani**
+
+**Recommended PHP Version: 5.6, 7.4, 8.1**
+
+
+**Admin Login Details**
+Email   : ksk@gmail.com
+Password: ksk.com
